@@ -12,6 +12,7 @@ Sumario
 6. Manipulação de funções em PostgreSQL
 
 Relacionamento entre tabelas
+
 Relacionamento Um-para-Um (One-to-One): uma linha de uma tabela está relacionada a apenas uma linha de outra tabela e vice-versa.
 Relacionamento Um-para-Muitos (One-to-Many): uma linha de uma tabela pode estar relacionada a várias linhas de outra tabela, mas uma linha da segunda tabela está relacionada apenas a uma linha da primeira tabela.
 Relacionamento Muitos-para-Muitos (Many-to-Many): várias linhas de uma tabela podem estar relacionadas a várias linhas de outra tabela, sendo necessário uma terceira tabela de associação para estabelecer esse relacionamento.
