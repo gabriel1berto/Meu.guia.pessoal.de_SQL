@@ -1,2 +1,4 @@
 # toolbox---SQL
-Este repositório contem informações sobre manipulações básicas, intermediárias e avançadas em SQL.
+
+O notebook é uma openview do Notion.
+https://www.notion.so/SQL-Notebook-13f84251cff149a596d8d55117f5e007?pvs=4
